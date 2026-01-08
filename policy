@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+  <h1>Privacy Policy</h1>
+  <p>Last updated: January 2026</p>
+
+  <p>
+    This Privacy Policy explains how our application ("we", "our", "the app")
+    collects, uses, and protects information when integrated with Meta platforms.
+  </p>
+
+  <h2>Information We Collect</h2>
+  <p>
+    Our application may receive limited data from Meta platforms such as:
+  </p>
+  <ul>
+    <li>Webhook event data</li>
+    <li>Page or user IDs</li>
+    <li>Message or event metadata</li>
+  </ul>
+
+  <p>
+    This data is collected only for development, testing, and automation purposes.
+  </p>
+
+  <h2>How We Use Information</h2>
+  <p>
+    The collected data is used solely to:
+  </p>
+  <ul>
+    <li>Test webhook integrations</li>
+    <li>Process automated workflows</li>
+    <li>Debug and improve system functionality</li>
+  </ul>
+
+  <h2>Data Storage and Security</h2>
+  <p>
+    Data is stored temporarily and securely. We do not sell, rent, or share
+    collected data with third parties.
+  </p>
+
+  <h2>Data Deletion</h2>
+  <p>
+    All collected data is deleted once it is no longer required for testing
+    or operational purposes.
+  </p>
+
+  <h2>Third-Party Services</h2>
+  <p>
+    This app uses Meta APIs and webhook services in accordance with Meta’s
+    Platform Policies.
+  </p>
+
+  <h2>Contact Information</h2>
+  <p>
+    If you have any questions about this Privacy Policy, you may contact us at:
+  </p>
+  <p><strong>Email:</strong> akyt.voice@gmail.com</p>
+
+</body>
+</html>
